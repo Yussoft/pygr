@@ -15,8 +15,8 @@ from sklearn.naive_bayes import GaussianNB
 # Model selection
 from sklearn.model_selection import RandomizedSearchCV
 from scipy.stats import uniform
-from ciklum.mlflow import get_experiment_id
-import ciklum.nlp_utils as nlp_utils
+from pygr.mlflow import get_experiment_id
+import pygr.nlp as utils
 
 SEED = 13092020
 

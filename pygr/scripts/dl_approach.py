@@ -6,7 +6,7 @@ from gensim.scripts.glove2word2vec import glove2word2vec
 from gensim.test.utils import datapath, get_tmpfile
 from tqdm import tqdm
 
-from ciklum import nlp_utils as utils
+from pygr.nlp import utils as utils
 
 data_path = '/home/yus/data/real_or_not/'
 train_path = os.path.join(data_path, 'train.csv')
