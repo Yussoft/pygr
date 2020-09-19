@@ -1,2 +1,2 @@
-# yus
-Repository where I updload tools and utilities that I use when building machine learning models.
+# Pygr
+Repository where we are supposed to do some cool things with ML/DL/NLP.
